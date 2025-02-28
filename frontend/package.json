@@ -58,7 +58,7 @@
     "@uiw/react-codemirror": "4.19.4",
     "abcjs": "6.1.7",
     "bootstrap": "5.2.3",
-    "copy-webpack-plugin": "11.0.0",
+    "copy-webpack-plugin": "13.0.0",
     "cross-env": "7.0.3",
     "d3-graphviz": "4.5.0",
     "d3-selection": "3.0.0",
